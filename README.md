@@ -1,17 +1,5 @@
 # Relógio 
 
-
-### Um relógio feito durante as vídeo aulas de Javascript do curso em vídeo. Onde o objetivo era realizar o exercício e conforme a hora conforme muda a hora, a foto também muda depois de um certo horário,  onde há tres imagens; Manhã, Tarde e Noite...
-
-## Tecnologias usadas
-
-- `HTML5`
-- `CSS3`
-- `JAVASCRIPT`
-         
-# Relógio 
-
-
 ### Um relógio feito durante as vídeo aulas de Javascript do curso em vídeo. Onde o objetivo era realizar o exercício e conforme a hora conforme muda a hora, a foto também muda depois de um certo horário,  onde há tres imagens; Manhã, Tarde e Noite...
 
 ## Tecnologias usadas
